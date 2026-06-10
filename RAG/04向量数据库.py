@@ -7,7 +7,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 import os
 from dotenv import load_dotenv
 from langchain_classic.memory import ConversationBufferMemory
-from pandas.io.formats.format import return_docstring
+
 
 load_dotenv()
 
